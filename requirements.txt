@@ -1,0 +1,4 @@
+pyftpdlib~=1.5.6
+mfd-common-libs>=1.11.0
+mfd-typing>=1.23.0
+mfd-traffic-manager>=1.18.0
