@@ -1,6 +1,6 @@
 -r requirements.txt
 pytest >= 9.0.3, < 10
 pytest-mock ~= 3.14
-mfd-connect>=7.11.0
+mfd-connect>=7.18.0
 
 coverage ~= 7.3.0
